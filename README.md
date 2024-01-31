@@ -4,4 +4,4 @@ A simple and delightful "Made with Love in [City Name]" snippet for your project
 
 Make sure to replace [City Name] with the name of your city and its URL.
 
-Feel free to customize the appearance by tweaking the CSS file. The heart icon animation and color change on hover can be adjusted according to your preferences. Also, you can customize the font of the text by modifying the CSS.
+Feel free to customize the appearance by tweaking the CSS file. The heart icon animation and color change on hover can be adjusted according to your preferences. Also, you can customize the font of the text by modifying the HTML.
